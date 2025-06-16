@@ -15,4 +15,7 @@
 Haz clic en **"Agregar una copia de seguridad"** y configura los siguientes campos:
 - Adjunto Imagenes del proceso:
 
+- ![1](https://github.com/user-attachments/assets/8e33758f-1e5c-44c8-83cd-ceab147109be)
+
+
   
