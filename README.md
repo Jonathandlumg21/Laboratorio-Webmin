@@ -26,6 +26,10 @@ Haz clic en **"Agregar una copia de seguridad"** y configura los siguientes camp
 ![5](https://github.com/user-attachments/assets/8dd7141d-1691-445e-a072-511f6cae2ac9)
 
 
+## Link video de configuración de politica, para realizar BackUp Programago 
+
+- https://youtu.be/r-hSRsG3qyA 
+
 
 
 
