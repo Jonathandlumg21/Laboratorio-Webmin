@@ -25,10 +25,19 @@ Haz clic en **"Agregar una copia de seguridad"** y configura los siguientes camp
 
 ![5](https://github.com/user-attachments/assets/8dd7141d-1691-445e-a072-511f6cae2ac9)
 
+- Prueba que se realizo el BackUp a como se dejo a las 10 la configuracion.
+- ![Imagen de WhatsApp 2025-06-16 a las 09 45 15_6fe2f11d](https://github.com/user-attachments/assets/50af7c2b-c63e-4cb2-9399-97a8bc3a6536)
+
 
 ## Link video de configuración de politica, para realizar BackUp Programago 
 
-- https://youtu.be/r-hSRsG3qyA 
+- https://youtu.be/r-hSRsG3qyA
+
+- Las figuras anteriores se realizaron para demostrar que el BackUp si se ejecuto con la programacion que era. Y se procedio a dejar ya la configuración solicitada. 
+
+-  Finalización del BackUp. Fue solicitado cada semana y se dejo en un horario que no puede afectar la produccion de la empresa.
+-  ![image](https://github.com/user-attachments/assets/fc1767fa-0268-4db7-9987-729430278ca3)
+
 
 
 
