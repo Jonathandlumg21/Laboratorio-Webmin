@@ -25,7 +25,7 @@ Haz clic en **"Agregar una copia de seguridad"** y configura los siguientes camp
 
 ![5](https://github.com/user-attachments/assets/8dd7141d-1691-445e-a072-511f6cae2ac9)
 
-- Prueba que se realizo el BackUp a como se dejo a las 10 la configuracion.
+- Prueba que se realizo el BackUp a como se dejo a las 6 y otro a las 10 en el cual quedo guardado sobre el de las 6 .
 - ![Imagen de WhatsApp 2025-06-16 a las 09 45 15_6fe2f11d](https://github.com/user-attachments/assets/50af7c2b-c63e-4cb2-9399-97a8bc3a6536)
 
 
